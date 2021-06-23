@@ -23,7 +23,7 @@
   "dependencies": {
     "@marvr/storyblok-rich-text-types": "^2.0.1",
     "@marvr/storyblok-rich-text-vue-renderer": "^2.0.1",
-    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/axios": "^5.13.6",
     "@tailwindcss/typography": "^0.4.1",
     "@vue/composition-api": "^1.0.0-rc.5",
     "core-js": "^3.14.0",
