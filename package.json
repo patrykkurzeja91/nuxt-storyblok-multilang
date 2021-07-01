@@ -28,7 +28,7 @@
     "@vue/composition-api": "^1.0.0-rc.5",
     "core-js": "^3.14.0",
     "nuxt": "^2.14.12",
-    "nuxt-i18n": "^6.21.1",
+    "nuxt-i18n": "^6.27.0",
     "storyblok-nuxt": "^2.0.1"
   },
   "devDependencies": {
